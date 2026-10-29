@@ -1,6 +1,6 @@
 # JUnit Practice — JUnit 6.1.3
 
-A small Maven project demonstrating JUnit Jupiter features in Java.
+A small project demonstrating JUnit Jupiter features in Java.
 
 ## Requirements
 - Java 17 or newer
